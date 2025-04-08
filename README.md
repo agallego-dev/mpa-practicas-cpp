@@ -17,6 +17,12 @@ Este repositorio contiene las prácticas realizadas durante el módulo de MPA en
 - `p4_1.cpp`, `p4_2.cpp`: Transformaciones iterativas
 - Documentación en `P4_TransformacionIterativo.pdf`
 
+### 📘 Sesión 5
+- `p5_final.cpp`: Implementación del algoritmo de ordenación rápida (quicksort) utilizando la estrategia de "divide y vencerás".
+- Se utiliza como pivote la mediana de los elementos en las posiciones primera, última y central.
+- Incluye una versión con **traza del algoritmo**, que muestra el proceso de llamadas recursivas.
+- Documentación explicativa en `P5_DivideVenceras.pdf`.
+
 ## Compilación
 
 Puedes compilar los programas con `g++`:
